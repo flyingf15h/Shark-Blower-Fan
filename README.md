@@ -1,6 +1,8 @@
 # Shark-Breathing-Fan
-## The 3 Ws 
-A shark shaped fan where the fan is the sharks mouth. Concept: 
+## What and Why 
+A shark shaped fan with a really wide mouth for the fan. I was thinking about shark related items I could buy and was inspired by a whale shark sticker.  
+Concept: 
+
 <img width="30%" alt="image" src="https://github.com/user-attachments/assets/73ed269e-b65b-4c9b-bcbf-bdadb18ab832" />
 
 ## 3D Model
@@ -8,8 +10,8 @@ A shark shaped fan where the fan is the sharks mouth. Concept:
 [Fan blade](https://makerworld.com/en/models/476320-parametric-fan-generator#profileId-387255) model by GCdesign3D on Makerworld  
 
 ### Fully assembled 
-<img width="560" height="551" alt="image" src="https://github.com/user-attachments/assets/00fbab6f-3acc-4dbc-bdd1-1e2e2d7e9c19" />
-<img width="583" height="570" alt="image" src="https://github.com/user-attachments/assets/9fd818d6-b9a8-41b2-952d-f96110e6390f" />
+<img width="50%" alt="image" src="https://github.com/user-attachments/assets/00fbab6f-3acc-4dbc-bdd1-1e2e2d7e9c19" />
+<img width="50%" alt="image" src="https://github.com/user-attachments/assets/9fd818d6-b9a8-41b2-952d-f96110e6390f" />
 
 ### Individually printable parts 
 <img width="602" height="489" alt="image" src="https://github.com/user-attachments/assets/6e02ab89-b90c-424f-9909-08f93bfa5fe2" />
