@@ -28,3 +28,8 @@ Concept:
 
 ## Assembly 
 The shark lower + upper body have 6 holes for 2mm magnets. The switch case has 2 holes for heat-set inserts. The fan frame attaches to the shark body with 4 heat-set inserts.    
+
+## Bill of Materials 
+| Item          |	Qty	| Unit Cost	| Total Cost |     	Source | Specifications | Link         |      
+| ------------- |----:| ---------:| ----------:| ------------| ---------------| -------------|
+| DC Motor	    |  1	|   $6.54   |	$6.54	     |  Aliexpress |   2000 RPM, 6 V|	https://www.aliexpress.com/item/32922112793.html?aem_p4p_detail=202605231605042368122421526200001972299&algo_pvid=0304349a-a5f5-42ee-846c-efd0dbc5e216&algo_exp_id=0304349a-a5f5-42ee-846c-efd0dbc5e216-15&pdp_ext_f=%7B%22order%22%3A%22600%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21CAD%215.69%215.69%21%21%214.03%214.03%21%40210311cc17795775042187994ef3d9%2112000040725947354%21sea%21CA%212965713149%21X%211%210%21n_tag%3A-29919%3Bd%3Afa6b15bf%3Bm03_new_user%3A-29895&curPageLogUid=0GPp5IUTwlv0&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A32922112793%7C_p_origin_prod%3A&search_p4p_id=202605231605042368122421526200001972299_4 |
