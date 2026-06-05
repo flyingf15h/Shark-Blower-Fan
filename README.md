@@ -10,6 +10,7 @@ Concept:
 [Fan blade](https://makerworld.com/en/models/476320-parametric-fan-generator#profileId-387255) model by GCdesign3D on Makerworld  
 
 ### Fully assembled 
+The shark lower + upper body have 6 holes for 2mm magnets. The switch case has 2 holes for heat-set inserts. The fan frame attaches to the shark body with 4 heat-set inserts.  
 <img width="45%" alt="image" src="https://github.com/user-attachments/assets/00fbab6f-3acc-4dbc-bdd1-1e2e2d7e9c19" />
 <img width="45%" alt="image" src="https://github.com/user-attachments/assets/9fd818d6-b9a8-41b2-952d-f96110e6390f" />
 
@@ -26,8 +27,9 @@ Concept:
 ### Shark Body 
 <img width="80%" alt="image" src="https://github.com/user-attachments/assets/4fec278f-68ab-41fe-842e-1588418cb665" />
 
-## Assembly 
-The shark lower + upper body have 6 holes for 2mm magnets. The switch case has 2 holes for heat-set inserts. The fan frame attaches to the shark body with 4 heat-set inserts.    
+## Schematic
+<img width="40%" height="608" alt="image" src="https://github.com/user-attachments/assets/3fbd0106-d731-487f-9846-69e6e0cba6ee" />
+
 
 ## Bill of Materials 
 | Item             |Qty	| Unit Cost	   | Total Cost     |  	Source | Specifications | Link                                 |      
