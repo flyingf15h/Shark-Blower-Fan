@@ -11,8 +11,8 @@ Concept:
 
 ### Fully assembled 
 The shark lower + upper body have 6 holes for 2mm magnets. The switch case has 2 holes for heat-set inserts. The fan frame attaches to the shark body with 4 heat-set inserts.  
-<img width="45%" alt="image" src="https://github.com/user-attachments/assets/00fbab6f-3acc-4dbc-bdd1-1e2e2d7e9c19" />
-<img width="45%" alt="image" src="https://github.com/user-attachments/assets/9fd818d6-b9a8-41b2-952d-f96110e6390f" />
+<img width="883" height="717" alt="image" src="https://github.com/user-attachments/assets/b8ac15e5-a957-4666-bd2c-8066a8a96cf8" />
+<img width="857" height="709" alt="image" src="https://github.com/user-attachments/assets/7a47872f-07e2-4820-a40f-c37951c91511" />
 
 [DC motor model](https://grabcad.com/library/n10-dc-gear-motor-1) from GrabCAD
 [DC barrel jack](https://grabcad.com/library/dc-barrel-jack-adapter-female-with-screw-terminals-1) from GrabCAD (not the exact model, just using it as a placeholder in the assembly because I couldn't find the model I'm using)
@@ -20,15 +20,14 @@ The shark lower + upper body have 6 holes for 2mm magnets. The switch case has 2
 
 
 ### Individually printable parts 
-<img width="80%" alt="image" src="https://github.com/user-attachments/assets/8d362f78-2331-4045-8b08-eb55deb879e7" />
-
+<img width="1074" height="721" alt="image" src="https://github.com/user-attachments/assets/f5d65cde-6388-4e66-a336-4e79067d1716" />
 
 ### Fan Blade + Frame
 <img width="45%" alt="image" alt="image" src="https://github.com/user-attachments/assets/d5f2f374-2179-4ba8-9174-0b44781656c2" />
 <img width="45%" alt="image" alt="image" src="https://github.com/user-attachments/assets/c91f8cbf-8287-47c0-8f3a-dead211c4c7b" />
 
 ### Switch Case
-<img width="80%" alt="image" src="https://github.com/user-attachments/assets/c7cda19f-1d8f-4ca0-b8a1-04a1376ed877" />
+<img width="70%" alt="image" src="https://github.com/user-attachments/assets/7862b700-4387-4fd0-a302-b4cc590d164a" />
 
 ### Shark Body 
 <img width="80%" alt="image" src="https://github.com/user-attachments/assets/4fec278f-68ab-41fe-842e-1588418cb665" />
