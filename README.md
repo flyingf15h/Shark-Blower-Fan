@@ -28,6 +28,7 @@ The shark lower + upper body have 6 holes for 2mm magnets. The switch case has 2
 
 ### Switch Case
 <img width="70%" alt="image" src="https://github.com/user-attachments/assets/7862b700-4387-4fd0-a302-b4cc590d164a" />
+<img width="432" height="590" alt="image" src="https://github.com/user-attachments/assets/03955001-c781-44fd-89f6-0e77a93428c9" />
 
 ### Shark Body 
 <img width="80%" alt="image" src="https://github.com/user-attachments/assets/4fec278f-68ab-41fe-842e-1588418cb665" />
