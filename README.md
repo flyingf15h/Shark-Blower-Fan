@@ -8,7 +8,9 @@ Concept:
 
 ## Assembly  
 
-The shark lower + upper body have 6 holes for 2mm magnets. The switch case has 2 holes for heat-set inserts. The fan frame attaches to the shark body with 4 heat-set inserts. Power goes via the DC Power connector -> PWM module in the fish case -> DC Barrel Jack attached to the shark -> Motor inside the shark. 
+The shark lower + upper body have 6 holes for 2mm magnets. The switch case has 2 holes for heat-set inserts. The fan frame attaches to the shark body with 4 heat-set inserts. 
+
+Power goes via the Power adapter (US Plug, 6V, 2A) -> PWM module (in the fish case) -> DC Barrel Jack (attached to the shark) -> Motor (inside the shark). 
 
 <img width="47%" height="717" alt="image" src="https://github.com/user-attachments/assets/b8ac15e5-a957-4666-bd2c-8066a8a96cf8" />
 <img width="47%" height="716" alt="image" src="https://github.com/user-attachments/assets/0640cda3-c779-4a44-99f6-201b33f30845" />
