@@ -14,8 +14,11 @@ The shark lower + upper body have 6 holes for 2mm magnets. The switch case has 2
 <img width="45%" alt="image" src="https://github.com/user-attachments/assets/00fbab6f-3acc-4dbc-bdd1-1e2e2d7e9c19" />
 <img width="45%" alt="image" src="https://github.com/user-attachments/assets/9fd818d6-b9a8-41b2-952d-f96110e6390f" />
 
+[DC motor model](https://grabcad.com/library/n10-dc-gear-motor-1) from GrabCAD
+
 ### Individually printable parts 
-<img width="80%" alt="image" src="https://github.com/user-attachments/assets/6e02ab89-b90c-424f-9909-08f93bfa5fe2" />
+<img width="80%" alt="image" src="https://github.com/user-attachments/assets/8d362f78-2331-4045-8b08-eb55deb879e7" />
+
 
 ### Fan Blade + Frame
 <img width="45%" alt="image" alt="image" src="https://github.com/user-attachments/assets/d5f2f374-2179-4ba8-9174-0b44781656c2" />
