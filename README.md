@@ -1,5 +1,5 @@
 # Shark-Breathing-Fan
-## What, Why, How 
+## What, Why 
 A shark shaped fan where the fan component is the mouth of the shark. I was thinking about shark related items I could buy and was inspired by a whale shark sticker. The residence I'll probably be going to for uni has no AC and I've heard it's hot even during September, so I'll need my fans. Fan speed controlled by a PWM module in an attached fish case.  
 
 ## Zine 
